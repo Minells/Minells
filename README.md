@@ -1,6 +1,6 @@
 # iamMinells
 # 💫 About Me:
-🔭 I’m currently working on  <br>Backend development, API integrations, and data-driven applications using Python and relational databases.<br><br>👯 I’m looking to collaborate on  <br>Backend or full-stack projects where clean architecture, APIs, and real-world problem solving matter.<br><br>🤝 I’m looking for help with  <br>Improving frontend frameworks usage and refining scalable system design choices.<br><br>🌱 I’m currently learning  <br>Advanced backend patterns, Django ecosystem, and modern frontend tools.<br><br>💬 Ask me about  <br>Python, SQL (PostgreSQL), REST APIs, backend logic, and problem-solving approaches.<br><br>⚡ Fun fact  <br>I care more about *why* a solution works than just making it work.<br>
+🔭 I’m currently working on  <br>Backend development, API integrations, and data-driven applications using Python and relational databases.<br><br>👯 I’m looking to collaborate on  <br>Backend or full-stack projects where clean architecture, APIs, and real-world problem solving matter.<br><br>🤝 I’m looking for help with  <br>Improving frontend frameworks usage and refining scalable system design choices.<br><br>🌱 I’m currently learning  <br>Advanced backend patterns, Gen AI/ML ecosystem, and modern frontend tools.<br><br>💬 Ask me about  <br>Python, Java, SQL (PostgreSQL), REST APIs, backend logic, and problem-solving approaches.<br><br>⚡ Fun fact  <br>I care more about *why* a solution works than just making it work.<br>
 
 
 ## 🌐 Socials:
